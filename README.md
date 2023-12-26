@@ -4,20 +4,14 @@ I'm passionate about Swift UI, Swift and have been diving deep into it for quite
 
 
 
-🔭 About Me
-
-
+🔭 About Me -->
 🌟 Swift UI enthusiast
-
-
 📱 iOS app developer
-
-
 💡 Constantly learning and experimenting
 
 
 
-🔧 Skills
+🔧 Skills -->
 Swift | Swift UI
 iOS Development
 Git | GitHub (still at learning phase)
