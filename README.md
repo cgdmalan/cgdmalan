@@ -19,6 +19,9 @@ I'm passionate about Swift UI, Swift and have been diving deep into it for quite
 
 
 
+📫 Let's Connect
+LinkedIn: https://www.linkedin.com/in/çiğdem-alan-1442b4194/
+
 Check out my repositories for more projects!
 
 
