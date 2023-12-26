@@ -1,16 +1,19 @@
-### Hi there 👋
+Hey there! 👋 I'm Cigdem Alan
 
-<!--
-**cgdmalan/cgdmalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about Swift UI, Swift and have been diving deep into it for quite some time! 👨‍💻 I love building sleek, user-friendly interfaces and exploring the latest trends in iOS development.
 
-Here are some ideas to get you started:
+🔭 About Me
+🌟 Swift UI enthusiast
+📱 iOS app developer
+💡 Constantly learning and experimenting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills
+Swift | Swift UI
+iOS Development
+Git | GitHub (still at learning phase)
+UI/UX Design (still at learning phase)
+
+Check out my repositories for more projects!
+
+
+Feel free to reach out, collaborate, or provide feedback on my projects! I'm always open to new opportunities and learning experiences. 😊
