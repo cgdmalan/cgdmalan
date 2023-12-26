@@ -12,10 +12,10 @@ I'm passionate about Swift UI, Swift and have been diving deep into it for quite
 
 
 🔧 Skills -->
-Swift | Swift UI
-iOS Development
-Git | GitHub (still at learning phase)
-UI/UX Design (still at learning phase)
+🌟 Swift | Swift UI
+📱iOS Development
+💡Git | GitHub (still at learning phase)
+💡UI/UX Design (still at learning phase)
 
 
 
